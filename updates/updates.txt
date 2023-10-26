@@ -1,0 +1,2 @@
+RELEASE 26-10-2023:
+  The main login page was created and later more animations would be added!
